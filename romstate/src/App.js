@@ -35,6 +35,7 @@ export default class app extends Component {
        
         <button onClick={this.toggle}>show/hide</button>
         {this.state.show && <Counterr/>}
+        {/* whenClicked is show or hide */}
         
 
       </div>
