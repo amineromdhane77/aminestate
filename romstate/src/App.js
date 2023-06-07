@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
-
+{/* importation de nos composants */}
 import Counterr from './component/Counterr'
+{/* importation de stylesheet de boostrap */}
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
